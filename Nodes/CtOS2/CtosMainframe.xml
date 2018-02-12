@@ -1,0 +1,14 @@
+<Computer id ="CtOS2 Mainframe" 
+	name ="Central Operating System Mainframe" 
+	ip="252.74.6.136" 
+	security="0" 
+	allowsDefaultBootModule="false" 
+	icon="DLCServer" 
+	type="3"
+	>
+	<adminpass pass="DedSec"/>
+	<portsForCrack val="0" />
+
+	<file path="server" name="Tower.ctos">#BINARY#</file>
+	<file path="server" name="CCTV.ctos">#BINARY#</file>
+</Computer>

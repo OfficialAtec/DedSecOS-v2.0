@@ -1,0 +1,27 @@
+<HacknetExtension>
+	<Language>en-us</Language>
+	
+	<Name>DedSecOS V2 (Alpha Edition)</Name>
+	<AllowSaves>true</AllowSaves>
+
+	<StartingMission>Missions/Start.xml</StartingMission>
+	<StartingActions>Actions/WelcomeAction.xml</StartingActions>
+
+	<Description> --- BLANK --- </Description>
+
+	<Faction>Factions/Blume.xml</Faction>
+	<Faction>Factions/CPD.xml</Faction>
+	<Faction>Factions/Capitalist.xml</Faction>
+
+	<StartsWithTutorial>False</StartsWithTutorial>
+	<HasIntroStartup>true</HasIntroStartup>
+	<StartingTheme>Themes/DedSec01.xml</StartingTheme>
+	<IntroStartupSong>Music/Infinity.ogg</IntroStartupSong>
+
+	<WorkshopDescription></WorkshopDescription>
+	<WorkshopLanguage>English</WorkshopLanguage>
+	<WorkshopVisibility>0</WorkshopVisibility>
+	<WorkshopTags>Extension</WorkshopTags>
+	<WorkshopPreviewImagePath>Logo.png</WorkshopPreviewImagePath>
+	<WorkshopPublishID>NONE</WorkshopPublishID>
+</HacknetExtension>

@@ -1,0 +1,8 @@
+<ConditionalActions>
+  
+  <Instantly>
+    <AddAsset FileName="RTSPCrack.exe" FileContents="#RTSP_EXE#" TargetComp="playerComp" TargetFolderpath="bin" />
+    <AddAsset FileName="MainSettings.ctos" FileContents="#BINARY#" TargetComp="playerComp" TargetFolderpath="home" />
+    <SwitchToTheme ThemePathOrName="TerminalOnlyBlack" FlickerInDuration="0.0" DelayHost="playerComp" Delay="0.0" />
+  </Instantly>
+</ConditionalActions>

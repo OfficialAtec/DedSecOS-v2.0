@@ -1,0 +1,26 @@
+<mission id="WelcomeBack">
+	<goals>
+
+	</goals>
+
+	<nextMission>NONE</nextMission>
+
+
+	<email>
+		<sender>DedSec</sender>
+		<subject>CtOS 2 control</subject>
+		<body>Welcome back agent. CtOS V2 is up and running
+You are in complete control of the system. It's up to you what you want to implement
+Targets you'll have to meet are:
+1) Get camera ops ready for immediate roll-out
+2) Upgrade the Mainframe to allow higher node-counts
+Attached you'll find a tutorial on how to get upgrades
+I'll also send some cash your way.
+</body>
+	 <attachments>
+        
+	 </attachments>
+	</email>
+</mission>
+
+		

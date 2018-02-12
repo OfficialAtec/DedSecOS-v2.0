@@ -1,0 +1,6 @@
+<ConditionalActions>
+  
+  <Instantly>
+  	<SwitchToTheme ThemePathOrName="Themes/DedSec01.xml" FlickerInDuration="0.0" DelayHost="playerComp" Delay="0.0" />
+  </Instantly>
+</ConditionalActions>
