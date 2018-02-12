@@ -1,11 +1,6 @@
 <mission id="WelcomeBack">
-	<goals>
-
-	</goals>
-
+	<goals></goals>
 	<nextMission>NONE</nextMission>
-
-
 	<email>
 		<sender>DedSec</sender>
 		<subject>CtOS 2 control</subject>
@@ -16,10 +11,8 @@ Targets you'll have to meet are:
 2) Upgrade the Mainframe to allow higher node-counts
 Attached you'll find a tutorial on how to get upgrades
 I'll also send some cash your way.
-</body>
-	 <attachments>
-        
-	 </attachments>
+		</body>
+		<attachments></attachments>
 	</email>
 </mission>
 
