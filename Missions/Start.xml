@@ -1,9 +1,10 @@
 <mission id="Start" activeCheck="true">
 	<goals>
-		<goal type="fileupload" target="playerComp" file="MainSettings.ctos" path="home" destTarget="CtOS2 Mainframe" destPath="server" />
+		<goal type="fileupload" target="playerComp" file="MainSettings.ctos" path="home" destTarget="CtOS2_Mainframe" destPath="server" />
 		<goal type="delay" time="10.0" />
 	</goals>
-
+	<missionEnd val="1">loadConditionalActions:Actions/CtOS2_Made.xml</missionEnd>
+	<missionEnd val="1">playCustomSong:Music/Infinity.ogg</missionEnd>
 	<nextMission IsSilent="true">Missions/WelcomeBack.xml</nextMission>
 
 	<email>
