@@ -1,7 +1,0 @@
-Welcome back agent. CtOS has been destroyed. 
-This caused your OS to go down with it.
-It's up to you to get it back up and running again
-We have taken intel from the original CtOS. It states that we need 1 file to get it back up again
-We have forwarded that file (MainSettings.ctos) to your computer.
-Go to 252.74.6.136 and upload the file to the /server/ folder.
-After it's uploaded wait a few seconds for the server to come up again

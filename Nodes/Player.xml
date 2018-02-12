@@ -8,7 +8,7 @@
 	>
 	
 	<adminPass pass="dildo" />
-	<positionNear target="CtOS2 Mainframe" position="1" total="3" extraDistance="0.1" force="false"/>
+	<positionNear target="CtOS2_Mainframe" position="1" total="3" extraDistance="0.1" force="false"/>
 
 	<file path="bin" name="SSH.exe">#SSH_CRACK#</file>
 	<file path="bin" name="FTP.exe">#FTP_BOUNCE#</file>
