@@ -1,0 +1,12 @@
+<Computer id="CtOS_Upgrade"
+	name="ServerParts Ltd."
+	ip="ServerParts.co.uk"
+	security="0"
+	allowsDefaultBootModule="true"
+	icon="DLCServer"
+	type="4"
+	>
+	<adminpass pass="Welcome" />
+	<portsForCrack val="0" />
+
+</Computer>

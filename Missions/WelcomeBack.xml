@@ -12,7 +12,19 @@ Targets you'll have to meet are:
 Attached you'll find a tutorial on how to get upgrades
 I'll also send some cash your way.
 		</body>
-		<attachments></attachments>
+		<attachments>
+			<note title="How to aquire upgrades">So to get upgrades (You'll need 'em):
+1) Go to AmericanExpress.com
+2) Login
+3) Check your balance
+4) Go to ServerParts.co.uk
+5) <!-- to be filled -->
+			</note>
+			<link comp="CtOS_Upgrade" />
+			<link comp="Amex" />
+			<account comp="Amex" user="#PLAYERNAME#" pass="rosebud" />
+			<account comp="CtOS_Upgrade" user="admin" pass="Welcome" />
+		</attachments>
 	</email>
 </mission>
 

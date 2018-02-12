@@ -9,6 +9,7 @@
 	<adminpass pass="DedSec"/>
 	<portsForCrack val="0" />
 
+	<dlink target="playerComp" />
 	<file path="server" name="Tower.ctos">#BINARY#</file>
 	<file path="server" name="CCTV.ctos">#BINARY#</file>
 </Computer>

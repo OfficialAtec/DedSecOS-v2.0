@@ -1,0 +1,14 @@
+<Computer id="Amex"
+	name="My American Express"
+	ip="my.amex.com"
+	security="5"
+	allowsDefaultBootModule="true"
+	icon="DLCServer"
+	type="4"
+	>
+	<adminpass pass="Greyhound" />
+	<portsForCrack val="999" />
+
+	<account username="#PLAYERNAME#" password="Greyhound" type="1" />
+
+</Computer>
