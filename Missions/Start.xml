@@ -3,13 +3,8 @@
 		<goal type="fileupload" target="playerComp" file="MainSettings.ctos" path="home" destTarget="CtOS2_Mainframe" destPath="server" />
 		<goal type="delay" time="10.0" />
 	</goals>
-
 	<nextMission IsSilent="true">Missions/WelcomeBack.xml</nextMission>
-
 	<email>
-    <sender>1</sender>
-    <subject>1</subject>
-    <body>1</body>
-    <attachments>
-    </attachments>
-  </email>
+                <sender></sender><subject></subject><body></body><attachments></attachments>
+        </email>
+</mission>
